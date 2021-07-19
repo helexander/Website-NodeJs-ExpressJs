@@ -1,3 +1,4 @@
+/* eslint-disable arrow-body-style */
 const fs = require("fs");
 const util = require("util");
 
