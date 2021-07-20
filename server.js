@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-console */
 /* eslint-disable arrow-body-style */
 const express = require('express');
 const path = require('path');
